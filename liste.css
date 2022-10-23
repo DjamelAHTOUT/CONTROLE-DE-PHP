@@ -1,0 +1,36 @@
+table.custumiserTable {
+    width: 80%;
+    background-color: #e1d6d6;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: #2d2f31;
+    border-style: solid;
+    color: #1f1414;
+  }
+  
+table.custumiserTable td, table.custumiserTable th {
+    border-width: 2px;
+    border-color: #dadfe8;
+    border-style: solid;
+    padding: 5px;
+  }
+  
+table.custumiserTable thead {
+    background-color: #f8bf7e;
+  }
+.btnajt{
+    border-radius:0.3em;
+    color: white;
+    background-color: rgb(104, 77, 27);
+    width: 6em;
+    height: 3em;
+    Margin-top: 2em;
+
+  }
+label{
+    font-size: 1.5em;
+    text-decoration: dotted;
+}
+h1{
+    color:rgb(153, 51, 51) ;
+}
